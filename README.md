@@ -6,7 +6,7 @@
   It is a research on non-destructive test for void of tile wall by sound impact test. With identification of different frequencies segments and some pretrained dataset from MatLab, the uni-directional microphone will collect and analyse the data of sound impact and return results of hollow or solid area in a tile within around 1 second.
 </p>
 <hr>
-
+<img src="https://github.com/chunwmak9/SoundProcessing/blob/master/Test.jpg" width="200" height="200">
 
 
 <h2><u><b>Operation Instructions</b></u></h2>
